@@ -5,7 +5,4 @@ Access to healthcare services, endemicity of disease vectors and infectious agen
 **Distribution of Female Genital Schistosomiasis in Selected Areas of  Kilifi**
 
 Female genital schistosomiasis (FGS) is a water-borne neglected tropical disease caused by the deposition of Schistosoma haematobium eggs in the female reproductive tract. In Kenya, it is an understudied disease despite its high burden in Coastal Kenya(Kilifi, Kwale, Tana River, Lamu and Mombasa). River Sabaki cuts through Kilifi County before draining into the Indian Ocean. Below is a map showing the distribution of FGS prevalence in selected areas of Kilifi County.
-
-![fgs_ward_prevalence](https://github.com/user-attachments/assets/99759fd7-0a3c-4b41-929b-4b6187fc387e)
- 
   
