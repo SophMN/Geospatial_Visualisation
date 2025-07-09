@@ -6,5 +6,7 @@ Access to healthcare services, endemicity of disease vectors and infectious agen
 
 Urogenital schistosomiasis is a water-borne neglected tropical disease caused by the parasite Schistosoma haematobium. In Kenya, it is an understudied disease despite its high burden in Coastal Kenya (Kilifi, Kwale, Tana River, Lamu and Mombasa). Below is a map showing the distribution of FGS prevalence in selected areas of Kilifi County.
 
+/home/sophie/geospatial_visualisation/fgs_ward_prevalence.png
+
  
   
