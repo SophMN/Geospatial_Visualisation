@@ -16,9 +16,9 @@ Fig. 2: Prevalence of genital schistosomiasis in 2 sub-counties in Kilifi County
 
 <img width="622" height="489" alt="ugs_prevalence_subcounty" src="https://github.com/user-attachments/assets/d351c920-3bb8-4c9c-9b35-79ce4a3afda2" />
 
-Fig. 3: Prevalence of S. haematobium infection among women in 2 sub-counties in Kilifi County, Kenya.
+Fig. 3: Prevalence of S. haematobium infection in 2 sub-counties in Kilifi County, Kenya.
   
 <img width="622" height="489" alt="ugs_prevalence_ward" src="https://github.com/user-attachments/assets/e85e097b-8482-4bfe-9da2-539d0890b7a6" />
 
-Fig. 4: Prevalence of S. haematobium infection among women in various wards in Kilifi County, Kenya.
+Fig. 4: Prevalence of S. haematobium infection in various wards in Kilifi County, Kenya.
 
